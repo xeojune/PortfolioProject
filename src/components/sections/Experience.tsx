@@ -4,7 +4,6 @@ import {
 } from "react-vertical-timeline-component";
 import { Icon } from "@iconify/react";
 import { useTranslation } from "react-i18next";
-import DeepDiveLabs from "../../../public/images/deepdive_labs_logo.jpeg"
 
 interface BadgeProps {
   text: string;
