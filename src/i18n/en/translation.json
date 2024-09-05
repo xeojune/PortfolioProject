@@ -1,0 +1,211 @@
+
+{
+  "basic_info": {
+    "name": "Juneyoung Seo",
+    "titles": [
+      "Front-end Developer",
+      "Fullstack Developer"
+    ],
+    "socials": [
+      {
+        "icon": "mdi:linkedin",
+        "url": "https://www.linkedin.com/in/juneyoung-seo-10b757236/"
+      },
+      {
+        "icon": "mdi:github",
+        "url": "https://github.com/xeojune"
+      }
+    ]
+  },
+  "about_me": {
+    "title": "About me",
+    "greeting": "Hello",
+    "content": " 👋 My name is Juneyoung Seo, and I am a passionate Frontend Developer / Fullstack Developer. With a strong foundation in engineering, I have dedicated a significant portion of my career to continuous growth and self-improvement as a developer. I approach my work with a customer-centric mindset, always considering the needs and perspectives of clients to deliver exceptional solutions. I thrive on challenges and never give up on developing both my skills and the products I work on.",
+    "image": "myProfile.jpg",
+    "tech_stacks": ["devicon:html5", "devicon:css3", "devicon:typescript"]
+  },
+  "projects": {
+    "title": "projects",
+    "projects": [
+      {
+        "title": "VoyAIge",
+        "startDate": "2024",
+        "description": "VoyAIge is a web application I started to address the time-consuming challenges of trip planning, especially when trying to manage time efficiently while exploring different parts of the world. The app leverages OpenAI to recommend attractions, restaurants, and hotels, and allows users to choose from these options. It then optimizes trip itineraries by locating selected places on a map, determining the best time to stay, planning routes, and suggesting the ideal day to visit each spot. Currently in development, I aim to use VoyAIge for my own future trips and eventually invite others to try it. The project has allowed me to work with a variety of tech stacks, combining innovation with practical utility.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg",
+          "images/portfolio/animal-shelter/p3.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "mdi:react",
+            "name": "Reactjs"
+          },
+          {
+            "class": "teenyicons:typescript-outline",
+            "name": "TypeScript"
+          },
+          {
+            "class": "icons8:recoil",
+            "name": "Recoil"
+          },
+          {
+            "class": "icons8:styled",
+            "name": "Styled-Component"
+          },
+          {
+            "class": "devicon:nestjs",
+            "name": "Nestjs"
+          },
+          {
+            "class": "devicon:mongodb",
+            "name": "MongoDB"
+          }
+        ]
+      },
+      {
+        "title": "Padips-DeepDiveLabs",
+        "startDate": "2024",
+        "description": "Padips is a project aimed at creating a micro SaaS platform for language teachers. Its purpose is to connect with OpenAI to generate lesson plans, problems, and solutions efficiently. By experimenting with server-side rendering (SSR) in Next.js, rather than the traditional client-side rendering (CSR) in React.js, I successfully optimized the platform, significantly reducing initial render times and improving the display of lesson generation. This project allowed me to explore trending technologies while enhancing the performance and usability of the platform for educators.",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg",
+          "images/portfolio/photography/p3.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon:nextjs",
+            "name": "Nextjs"
+          },
+          {
+            "class": "teenyicons:javascript-outline",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon:dynamodb",
+            "name": "DynamoDB"
+          }
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "ri:html5-fill",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "teenyicons:css3-solid",
+        "level": "95"
+      },
+      {
+        "name": "React",
+        "class": "mdi:react",
+        "level": "80"
+      },
+      {
+        "name": "Nextjs",
+        "class": "devicon:nextjs",
+        "level": "60"
+      },
+      {
+        "name": "TypeScript",
+        "class": "teenyicons:typescript-solid",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "teenyicons:javascript-solid",
+        "level": "70"
+      },
+      {
+        "name": "Recoil",
+        "class": "icons8:recoil",
+        "level": "75"
+      },
+      {
+        "name": "Styled-Comp",
+        "class": "icons8:styled",
+        "level": "85"
+      },
+      {
+        "name": "Python",
+        "class": "devicon-plain:python",
+        "level": "65"
+      },
+      {
+        "name": "Nestjs",
+        "class": "devicon:nestjs",
+        "level": "60"
+      },
+      {
+        "name": "MongoDB",
+        "class": "devicon:mongodb",
+        "level": "60"
+      },
+      {
+        "name": "PostgreSQL",
+        "class": "devicon:postgresql",
+        "level": "60"
+      }
+    ]
+  },
+  "experience": {
+    "title": "Experience",
+    "experiences": [
+      {
+        "company": "DeepDiveLabs",
+        "title": "Front-End Developer Intern",
+        "years": "05.2024 - 07.2024",
+        "logo": "../../../public/images/deepdive_labs_logo.jpeg",
+        "mainTechIcon": "mdi:briefcase",
+        "technologies": [
+          "Nextjs",
+          "JavaScript",
+          "Reactjs",
+          "AWS DynamoDB",
+          "Lambda",
+          "API Gateway",
+          "Recoil"
+        ]
+      },
+      {
+        "company": "VoyAIge",
+        "title": "Frontend Developer",
+        "years": "05.2024 - Present",
+        "mainTechIcon": "mdi:projector-screen-outline",
+        "technologies": ["React", "Recoil", "Styled-Component", "TypeScript", "Nestjs", "Nodejs", "MongoDB", "Git"]
+      },
+      {
+        "company": "Panasonic R&D Center",
+        "title": "FullStack Developer Intern",
+        "years": "01.2024 - 05.2024",
+        "logo": "../../../public/images/panasonic.png",
+        "mainTechIcon": "mdi:briefcase",
+        "technologies": ["Python", "PostgreSQL", "Redis", "RaspberryPi", "OpenCV", "Git"]
+      },
+      {
+        "company": "Efinity",
+        "title": "Mobile Frontend Developer",
+        "years": "08.2023 - 12.2023",
+        "mainTechIcon": "mdi:projector-screen-outline",
+        "technologies": ["Kotlin", "Android", "Supabase", "Git"]
+      },
+      {
+        "company": "NearBrain.Inc",
+        "title": "Application Developer Intern",
+        "years": "05.2023 - 08.2023",
+        "logo": "../../../public/images/nearbrain.png",
+        "mainTechIcon": "mdi:briefcase",
+        "technologies": ["Python", "GUI", "PyQT", "VTK", "OpenCV", "CNN"]
+      }
+    ]
+  },
+  "copyright": "Copyright"
+}
