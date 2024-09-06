@@ -163,7 +163,7 @@
         "company": "DeepDiveLabs",
         "title": "Front-End Developer Intern",
         "years": "05.2024 - 07.2024",
-        "logo": "../../../public/images/deepdive_labs_logo.jpeg",
+        "logo": "/images/deepdive_labs_logo.jpeg",
         "mainTechIcon": "mdi:briefcase",
         "technologies": [
           "Nextjs",
@@ -186,7 +186,7 @@
         "company": "Panasonic R&D Center",
         "title": "FullStack Developer Intern",
         "years": "01.2024 - 05.2024",
-        "logo": "../../../public/images/panasonic.png",
+        "logo": "/images/panasonic.png",
         "mainTechIcon": "mdi:briefcase",
         "technologies": ["Python", "PostgreSQL", "Redis", "RaspberryPi", "OpenCV", "Git"]
       },
@@ -201,7 +201,7 @@
         "company": "NearBrain.Inc",
         "title": "Application Developer Intern",
         "years": "05.2023 - 08.2023",
-        "logo": "../../../public/images/nearbrain.png",
+        "logo": "/images/nearbrain.png",
         "mainTechIcon": "mdi:briefcase",
         "technologies": ["Python", "GUI", "PyQT", "VTK", "OpenCV", "CNN"]
       }
