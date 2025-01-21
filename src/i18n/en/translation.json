@@ -33,8 +33,9 @@
         "description": "VoyAIge is a web application I started to address the time-consuming challenges of trip planning, especially when trying to manage time efficiently while exploring different parts of the world. The app leverages OpenAI to recommend attractions, restaurants, and hotels, and allows users to choose from these options. It then optimizes trip itineraries by locating selected places on a map, determining the best time to stay, planning routes, and suggesting the ideal day to visit each spot. Currently in development, I aim to use VoyAIge for my own future trips and eventually invite others to try it. The project has allowed me to work with a variety of tech stacks, combining innovation with practical utility.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p3.jpg",
           "images/portfolio/animal-shelter/p2.jpg",
-          "images/portfolio/animal-shelter/p3.jpg"
+          "images/portfolio/animal-shelter/p4.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -86,6 +87,73 @@
           {
             "class": "devicon:dynamodb",
             "name": "DynamoDB"
+          }
+        ]
+      },
+      {
+        "title": "TwoWay",
+        "startDate": "2024",
+        "description": "TwoWay is a project aimed at creating a online thrifting hub for fashion items.",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg",
+          "images/portfolio/adventure/p3.jpg",
+          "images/portfolio/adventure/p4.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon:html5",
+            "name": "HTML"
+          },
+          {
+            "class": "teenyicons:javascript-outline",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon:css3",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon:php",
+            "name": "PHP"
+          }
+        ]
+      },
+      {
+        "title": "EEEHub",
+        "startDate": "2025",
+        "description": "EEEHub is a project aimed at creating an online hub for electrical and electronics majoring students. It provides various features such as live chat, post creation, AI navigation chatbot, and Ranking Point system to foster community engagement and collaboration among students.",
+        "images": [
+          "images/portfolio/hello/p1.jpg",
+          "images/portfolio/hello/p2.jpg",
+          "images/portfolio/hello/p3.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "mdi:react",
+            "name": "Reactjs"
+          },
+          {
+            "class": "teenyicons:typescript-outline",
+            "name": "TypeScript"
+          },
+          {
+            "class": "icons8:recoil",
+            "name": "Recoil"
+          },
+          {
+            "class": "icons8:styled",
+            "name": "Styled-Component"
+          },
+          {
+            "class": "devicon:nestjs",
+            "name": "Nestjs"
+          },
+          {
+            "class": "devicon:mongodb",
+            "name": "MongoDB"
           }
         ]
       }
